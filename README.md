@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=4000&pause=500&center=true&vCenter=true&width=1024&height=128&lines=Hi+there+%F0%9F%91%8B;%E5%BE%88%E9%AB%98%E5%85%B4%E8%83%BD%E8%A7%81%E5%88%B0%E4%BD%A0+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<p align="center">
 
-<!--
-**Harry-Jing/Harry-Jing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Harry-Jing&show_icons=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Jing&layout=compact" height="160"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harry-Jing&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&margin-w=8"  alt="github profile trophy"/>
+</p>
