@@ -12,6 +12,8 @@
 
 - 我正在阅读 `Fluent Python, 2nd edition`
 
+- 我的邮箱：Harry0259@163.com
+
 
 ---
 
