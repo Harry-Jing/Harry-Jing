@@ -14,9 +14,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Jing&layout=compact" width="400"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Harry-Jing&show_icons=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HarryJing" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harry-Jing&show_icons=true" />
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Jing&layout=compact" width="400" />
 </p>
 
 ---
