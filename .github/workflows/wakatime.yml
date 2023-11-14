@@ -1,9 +1,10 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '20 * * * *'
+    - cron: '0,12 0 * * *'
+  workflow_dispatch:
+  push:
 
 jobs:
   update-readme:
@@ -14,7 +15,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_BY_ME: "True"
           SHOW_UPDATED_DATE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"
