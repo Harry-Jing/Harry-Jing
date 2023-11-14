@@ -14,10 +14,13 @@
 ---
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harry-Jing&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HarryJing" />
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harry-Jing&show_icons=true" alt="github-readme-stats"/>
+</p>
 
 
+---
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
