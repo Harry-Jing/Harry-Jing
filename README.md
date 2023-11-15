@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2053%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,16 +48,6 @@ Discord-Bot-Demo         1 hr 13 mins        ██████░░░░░�
 Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
 
-```text
-Python                   15 repos            ██████████████████████░░░   88.24 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-```
-
-
-
-
- Last Updated on 14/11/2023 23:35:21 UTC
+ Last Updated on 15/11/2023 00:51:35 UTC
 <!--END_SECTION:waka-->
