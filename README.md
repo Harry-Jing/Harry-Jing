@@ -22,6 +22,24 @@
 ---
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 07/01/2025 12:28:36 UTC
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+INI                      25 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  25 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          25 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  25 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 07/01/2025 16:31:20 UTC
 <!--END_SECTION:waka-->
