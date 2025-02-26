@@ -28,18 +28,19 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 39 mins        ████████████████████████░   95.95 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HW5                      1 hr 44 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/02/2025 08:19:02 UTC
+ Last Updated on 26/02/2025 12:28:43 UTC
 <!--END_SECTION:waka-->
