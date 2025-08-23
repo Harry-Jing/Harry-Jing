@@ -28,18 +28,20 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               11 mins             ███████████████████████░░   91.02 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+project-Harry-Jing       9 mins              ████████████████████░░░░░   78.81 % 
+problem-09-Harry-Jing    2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/08/2025 08:18:36 UTC
+ Last Updated on 23/08/2025 12:29:22 UTC
 <!--END_SECTION:waka-->
