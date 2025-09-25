@@ -18,28 +18,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Harry-Jing&show_icons=true" alt="github-readme-stats"/>
 </p>
 
-
----
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 25/09/2025 20:17:32 UTC
-<!--END_SECTION:waka-->
